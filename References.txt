@@ -1,0 +1,67 @@
+1. Microsoft Winforms Documentation
+https://docs.microsoft.com/en-us/dotnet/desktop/winforms/?view=netframeworkdesktop-4.8
+https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms?view=netframework-4.7.2
+https://docs.microsoft.com/en-us/dotnet/desktop/winforms/forms/how-to-add?view=netdesktop-5.0
+
+2. Understanding what BLOB is (though not utilised)
+https://study.com/academy/lesson/sql-data-types-binary-large-object.html#:~:text=A%20BLOB%2C%20or%20Binary%20Large,TINYBLOB%20%2D%20256%20bytes
+
+3. SQLite Documentation
+https://www.sqlite.org/docs.html
+
+4. Tim Corey - Using SQLite
+https://www.youtube.com/watch?v=ayp3tHEkRc0&t=689s
+
+5. Creating a SQLite DB File
+https://www.csharp-console-examples.com/general/creating-sqlite-database-and-table-in-csharp-console/
+
+6. ADO.NET Documentation
+https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/
+
+7. Tim Corey - Creating a C# Application 
+https://www.youtube.com/watch?v=YxewTI4H2mY
+
+8. Received Idea to use DataGridView
+https://social.msdn.microsoft.com/Forums/windows/en-US/4a065912-e111-4c0d-991b-ccb73a545b13/how-to-bind-a-list-view-with-dataset-using-c?forum=winformsdatacontrols
+
+9. Disabling the left column from the DataGridView
+https://social.msdn.microsoft.com/Forums/windows/en-US/883f5d5c-59b3-4702-9f80-6364352dcc8c/how-do-i-remove-the-left-side-selection-column-from-a-datagridview?forum=winforms
+
+10. Using a SQLite online editor
+https://sqliteonline.com/
+
+11. DateTime
+https://docs.microsoft.com/en-us/dotnet/api/system.datetime?view=netframework-4.7.2
+
+12. Sorting DataGridView
+https://docs.microsoft.com/en-us/dotnet/desktop/winforms/controls/column-sort-modes-in-the-windows-forms-datagridview-control?view=netframeworkdesktop-4.8
+https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.datagridview.sort?view=netframework-4.7.2
+
+13. Setting the text limit of a column
+https://stackoverflow.com/a/17798404
+- Answer specifically provided by "dan04"
+
+14. Disabling editing of a combo box
+https://stackoverflow.com/a/598457
+- Answer provided by "Dan Walker" and edited by "Tim Cooper"
+
+15. Utilising multiple forms
+https://social.msdn.microsoft.com/Forums/windows/en-US/889b9610-26b9-4058-934f-f0046510f31e/how-to-simultaneously-work-with-multiple-forms-in-a-single-winform-application-without-reloading-the?forum=winforms
+- Answers provided by "Andrew B. Painter" and "Daniel_Zhang-MSFT"
+
+16. Renaming Split Container panels
+https://social.msdn.microsoft.com/Forums/windows/en-US/8e6bace5-8fdd-40d1-89bf-e2e652241378/rename-a-panel-in-a-split-container?forum=winformsdesigner
+- Answer provided by "Danijel Malik"
+
+17. Creating a navigation, where the right side of the form changes content based on the navigation picked
+https://stackoverflow.com/a/36252030
+- Creator name - Reza Aghaei (https://stackoverflow.com/users/3110834/reza-aghaei)
+- License - CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
+- Link to material - https://stackoverflow.com/a/36252030
+
+
+18. Got idea to set alternating rows in data grid views to a different color
+https://www.youtube.com/watch?v=S6LXqiRn9pg&list=WL&index=133
+
+19. List tables in sqlite
+https://www.sqlitetutorial.net/sqlite-tutorial/sqlite-show-tables/
