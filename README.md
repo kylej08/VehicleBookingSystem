@@ -3,6 +3,8 @@
 ## A description of how it works
 A fictitious automobile software program that allows one to make vehicle bookings.
 
+The project type used is Winforms, utilising the C# language. A SQLite database is used for the backend.
+
 The primary information about the project itself includes:
 1. Bookings
 2. Customers
